@@ -2,11 +2,6 @@
   <signup-form />
 </template>
 
-
-// asldfjsdljkfasljkfljskfklsd
-// sdklfjsajkflsdlkfjsdkljflksj
-// re0jpretjpaeofzdlsmfsdlmfkzdfz
-
 <script>
 import signupForm from './components/SignupForm.vue'
 
